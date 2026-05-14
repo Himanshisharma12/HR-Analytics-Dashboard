@@ -11,9 +11,9 @@ Interactive Dashboards: Built with Power BI, allowing dynamic filtering and deep
 KPI Metrics: Includes employee attrition, average working years, job satisfaction, and more.
 Visual Insights: Graphs and charts for easy interpretation of trends and patterns.
 Data-Driven HR Decisions: Supports evidence-based HR strategies.
+
 📊 Dashboards & Visuals
 The report contains the following main visuals:
-
 Attrition by Department and Job Role
 Employee Distribution by Education and Gender
 Monthly Income by Job Role
@@ -25,13 +25,6 @@ Screenshots and PDF exports are provided for preview without requiring Power BI.
 File: HR_Analytics.csv
 Columns: Age, Job Role, Monthly Income, Department, Attrition, Education, Gender, Years at Company, etc.
 Note: This is dummy HR data commonly used for HR analytics projects.
-🚀 Getting Started
-Clone the repository:
-
-git clone https://github.com/your-username/hr-data-analysis.git
-Open the .pbix file with Power BI Desktop to explore or edit dashboards.
-
-View the report using the PDF or screenshots for a static overview.
 
 📌 Tools Used
 Power BI
