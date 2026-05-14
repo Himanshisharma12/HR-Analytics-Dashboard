@@ -4,8 +4,11 @@ This project provides an analytical overview of HR data using Power BI. It explo
 📁 Project Structure
 ├── HR_Analytics.csv               # Raw HR data used for analysis
 ├── HR Data Analysis.pbix         # Power BI report file (editable)
-├── HR Analytics Dashboard.png    # Screenshots of visual reports
+├── HR Data Analysis.pdf          # Exported PDF of Power BI report
+├── Screenshot 2024-09-01*.png    # Screenshots of visual reports
+├── Image 1.png / Image 2.png     # Visual aids or graphic assets
 └── README.md                     # Project documentation
+
 📌 Key Features
 Interactive Dashboards: Built with Power BI, allowing dynamic filtering and deep dives.
 KPI Metrics: Includes employee attrition, average working years, job satisfaction, and more.
