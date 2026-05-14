@@ -38,4 +38,6 @@ This project provides an analytical overview of HR data using Power BI. It explo
 
 ## 📸Screenshots
 
-- **Example**:
+- **Example**: Dashboard Preview
+
+![HR Dashboard](https://github.com/Himanshisharma12/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.png?raw=true)
