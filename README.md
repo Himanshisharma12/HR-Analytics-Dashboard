@@ -25,11 +25,17 @@ This project provides an analytical overview of HR data using Power BI. It explo
 - Work-Life Balance Analysis  
 
 ## 🧮 Data Source
+
 - File: HR_Analytics.csv
 - Columns: Age, Job Role, Monthly Income, Department, Attrition, Education, Gender, Years at Company, etc.
 - Note: This is dummy HR data commonly used for HR analytics projects.
 
-# 📌 Tools Used
+## 📌 Tools Used
+
 - Power BI
 - Microsoft Excel / CSV
 - Visual Design (for screenshots/images)
+
+## 📸Screenshots
+
+- **Example**:
